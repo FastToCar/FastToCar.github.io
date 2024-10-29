@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title></title>
+        <link href="index.css" rel="stylesheet">
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="Compra de coches segunda mano, compra de objetos relacionados con coches"/>
+        <meta name="author" content="FastToCar_S.L"/>
+        <meta name="copyright" content="FastToCar_S.L"/>
+        <meta name="keywoeds" content=""/>
+        <meta name="organization" content="">
+        <meta name="lenguage" content="en">
+        <title>Document</title>
+        <link rel="stylesheet" href="css/index.css">
+    </head>
+    <body>
+        <header>
+            <figure>
+                <img src="img/FastToCar.png"/>
+            </figure>
+        </header>
+        <nav>
+            <button>Compra de coches</button>
+            <button>Alquiler</button>
+            <button>Productos en tienda</button>
+        </nav>
+        <section>
+            <article>
+
+            </article>
+        </section>
+        <aside>
+
+        </aside>
+        <footer>
+
+        </footer>
+    </body>
+</html>
